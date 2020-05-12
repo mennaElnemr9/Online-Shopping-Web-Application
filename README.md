@@ -1,0 +1,1 @@
+we can call it small amazon made by third year engineering students :D , it's a websiite for online shopping whith a good data manipulation it has also a Recommender method written in sql which keeps track of the customer actions and recommend an item based on these actions.
